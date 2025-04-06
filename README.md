@@ -12,3 +12,4 @@ A personal navigation and project display website based on a three piece set.
 如果你对项目有任何更好的想法或建议，欢迎参与更新与维护工作，让更多人一起欣赏这个作品。🫦
 
 项目预览 👀
+![17439120880861065459403025262682](https://github.com/user-attachments/assets/d3de7b86-e8dc-4acd-aa27-1bcd0b556a44)
